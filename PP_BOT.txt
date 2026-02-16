@@ -1,0 +1,27 @@
+================================================================================
+  PHOTO DE PROFIL DU BOT — Logo KN SHOP (bouclier)
+================================================================================
+
+La PP du bot se change UNIQUEMENT via @BotFather sur Telegram, pas dans le code.
+
+--------------------------------------------------------------------------------
+Étapes (2 min)
+--------------------------------------------------------------------------------
+
+1. Ouvre Telegram → cherche @BotFather
+
+2. Envoie :  /setuserpic
+
+3. Choisis ton bot : KnShopOfficielbot
+
+4. Envoie la photo du logo KN SHOP (bouclier "SHOP KN" avec icônes) :
+   → Fichier :  logo_knshop_pp.png
+   → Dossier :  c:\Users\frack\Desktop\BOT TELEGRAM\logo_knshop_pp.png
+   → Envoie-le en pièce jointe dans la discussion @BotFather
+
+5. C’est enregistré : la PP du bot = logo KN SHOP.
+
+--------------------------------------------------------------------------------
+Astuce : glisse-dépose logo_knshop_pp.png dans la fenêtre Telegram (chat
+         @BotFather) quand il demande la photo.
+================================================================================

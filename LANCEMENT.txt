@@ -1,0 +1,48 @@
+================================================================================
+  KN SHOP — Comment lancer le bot
+================================================================================
+
+Tu as Python 3.14 : python-telegram-bot ne fonctionne pas encore avec.
+Il faut utiliser Python 3.11 ou 3.12.
+
+--------------------------------------------------------------------------------
+OPTION 1 — Installer Python 3.12 (recommandé)
+--------------------------------------------------------------------------------
+
+1. Télécharge Python 3.12 :
+   https://www.python.org/downloads/release/python-31211/
+   → Clique sur "Windows installer (64-bit)"
+
+2. À l’installation :
+   ✓ Coche "Add python.exe to PATH"
+   ✓ Clique "Install Now"
+
+3. Ouvre un NOUVEAU terminal (Invite de commandes ou PowerShell).
+
+4. Va dans le dossier du bot :
+   cd "c:\Users\frack\Desktop\BOT TELEGRAM"
+
+5. Installe les dépendances avec Python 3.12 :
+   py -3.12 -m pip install -r requirements.txt
+
+6. Définis le token du bot (obligatoire) :
+   $env:BOT_TOKEN = "TON_TOKEN_BOT_ICI"
+
+7. Lance le bot :
+   py -3.12 bot.py
+
+--------------------------------------------------------------------------------
+OPTION 2 — Si tu as déjà Python 3.11 ou 3.12
+--------------------------------------------------------------------------------
+
+Dans le dossier du bot :
+
+   $env:BOT_TOKEN = "TON_TOKEN_BOT_ICI"
+   py -3.12 -m pip install -r requirements.txt
+   py -3.12 bot.py
+
+(Remplace 3.12 par 3.11 si c’est la version que tu utilises.)
+
+--------------------------------------------------------------------------------
+Pour arrêter le bot : Ctrl+C dans le terminal.
+================================================================================

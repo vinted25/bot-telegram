@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+.git
+*.md
+!DEPLOIEMENT.md
+LANCEMENT.txt
+PP_BOT.txt
+RESUME_BOT_KN_SHOP.md
+TABLEAU_PRIX_CATALOGUE.md
+CATALOGUE_COMPLET.md
+logo_knshop_pp.png
+shop_logo.png
+.env
+.env.*
+py
